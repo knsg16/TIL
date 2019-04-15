@@ -1,2 +1,3 @@
 # Today I Learned
-aqaaaa
+## rails
+- [インストール時にコケやすいGem](rails/easily-failed-to-install-gems.md)
