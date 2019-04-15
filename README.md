@@ -4,3 +4,6 @@
 
 ## bash
 - [Pecoでhistory検索を見やすく](bash/peco-history.md)
+
+## environment
+- [Anyenvとは](environment/anyenv.md)
