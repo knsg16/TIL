@@ -9,3 +9,5 @@
 ## environment
 - [Anyenvとは](environment/anyenv.md)
 
+## ruby
+- [delete_if](ruby/delete-if.md)
