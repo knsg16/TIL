@@ -11,3 +11,7 @@
 
 ## ruby
 - [delete_if](ruby/delete-if.md)
+
+## business
+- [タスクの分類](business/how-to-categorize-task.md)
+
