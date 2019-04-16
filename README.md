@@ -14,4 +14,4 @@
 
 ## business
 - [タスクの分類](business/how-to-categorize-task.md)
-
+- [調整の仕方](business/how-to-adjustment.md)
