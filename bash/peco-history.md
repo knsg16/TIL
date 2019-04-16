@@ -44,3 +44,9 @@ bind '"\C-r":"peco-history\n"'
 
 ```
 - `source ~/.bashrc`を叩く
+
+## トラブルシューティング
+ctr + Rでhistoryからコマンドを選択しても、エラーが発生する時がある。
+その時は、macのシステム環境設定から、オートメーションでiterm2の`Sysytem Events.app`にチェックして、アクセシビリティでもiterm2を許可する必要がある。
+
+[Mojaveにしたらpeco-historyできなくなったときの対処法](https://qiita.com/backgroundcolor/items/c94422380c3dfa0227a5)
