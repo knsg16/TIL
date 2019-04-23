@@ -13,6 +13,7 @@
 
 ## rails
 - [インストール時にコケやすいGem](rails/easily-failed-to-install-gems.md)
+- [save!メソッド](rails/save.md)
 
 ## react-native
 - [Expo](react-native/expo.md)
