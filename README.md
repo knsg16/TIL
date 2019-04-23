@@ -20,6 +20,7 @@
 
 ## ruby
 - [delete_if](ruby/delete-if.md)
+- [step](ruby/step.md)
 
 
 
